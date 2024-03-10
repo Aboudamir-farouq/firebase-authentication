@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "356006344983",
+    "firebase_url": "https://authentication-p1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "authentication-p1",
+    "storage_bucket": "authentication-p1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356006344983:android:e8993bca8163a63733df52",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzgEdg-B3WwSNJ2TZv_RQdPRcYQ4q2R_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356006344983:android:6558e4f289cca3ce33df52",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzgEdg-B3WwSNJ2TZv_RQdPRcYQ4q2R_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
